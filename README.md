@@ -37,3 +37,7 @@
     * https://www.enterprisedb.com/downloads/postgres-postgresql-downloads から Windows x86-64 のバイナリをダウンロードしてインストール
     * インストール先はデフォルトのまま
     * インストール中にスーパーユーザのパスワードを設定する箇所があるので、CmdbWG2025 に設定。（https://github.com/takagiko/ServiceNow-CMDBWG-ITOMHandOn/blob/main/WG-CMDB-002/index.jsp の設定に合わせる）
+
+* MIDサーバインストール用仮想マシン
+  * 実施する人数分用意する
+  * 設定方法は本編の通り
